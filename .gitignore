@@ -1,0 +1,7 @@
+/Datasets/**/*.npy
+/Models/__pycache__
+/__pycache__
+/.vscode
+/.env
+/venv
+/.idea
